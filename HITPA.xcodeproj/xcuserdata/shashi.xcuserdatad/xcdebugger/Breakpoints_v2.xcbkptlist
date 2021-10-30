@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93473DF6-375C-446D-9603-0507384588B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0854C6C-0034-428F-ABED-BF9AAF3E9898"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Claimsjunction Controller/ClaimsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1503"
+            endingLineNumber = "1503"
+            landmarkName = "-intimateButtonTapped:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0854C6C-0034-428F-ABED-BF9AAF3E9898 - 226c4f13e1166425"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ClaimsViewController intimateButtonTapped:]_block_invoke_2"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Claimsjunction%20Controller/ClaimsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1503"
+                  endingLineNumber = "1503"
+                  offsetFromSymbolStart = "3613">
+               </Location>
+               <Location
+                  uuid = "F0854C6C-0034-428F-ABED-BF9AAF3E9898 - 226c4f13e1166423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[ClaimsViewController intimateButtonTapped:]_block_invoke_3"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Claimsjunction%20Controller/ClaimsViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1503"
+                  endingLineNumber = "1503"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB1810D7-A9A5-4BFA-884E-38FBCE870ABE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Claimsjunction Controller/ClaimsViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1505"
+            endingLineNumber = "1505"
+            landmarkName = "-intimateButtonTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "A7CD544E-CE5A-45A0-AE87-31056EB64053"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F553F27C-ED95-488B-A9A6-FA2BD1313585"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Grievance Controller/GrievanceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1151"
+            endingLineNumber = "1151"
+            landmarkName = "-raiseGrievanceButtonTapped:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F553F27C-ED95-488B-A9A6-FA2BD1313585 - d89f38083d4793ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[GrievanceViewController raiseGrievanceButtonTapped:]_block_invoke_4"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1151"
+                  endingLineNumber = "1151"
+                  offsetFromSymbolStart = "2063">
+               </Location>
+               <Location
+                  uuid = "F553F27C-ED95-488B-A9A6-FA2BD1313585 - d89f38083d4795af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[GrievanceViewController raiseGrievanceButtonTapped:]_block_invoke_5"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1151"
+                  endingLineNumber = "1151"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9F282BD-57C6-4F89-9AF1-BA96579BF4DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/App/HITPAAPI/HITPAAPI.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "-postGrievanceDetailsWithParams:callerType:completionHandler:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6527FB9B-8FBA-4AC2-8D8F-521D828F177C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Grievance Controller/GrievanceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1153"
+            endingLineNumber = "1153"
+            landmarkName = "-raiseGrievanceButtonTapped:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "680A4D70-9C58-4063-A196-F2BEE02EF3B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Grievance Controller/GrievanceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "723"
+            endingLineNumber = "723"
+            landmarkName = "-policyNoBtnBtnTapped:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "680A4D70-9C58-4063-A196-F2BEE02EF3B7 - 41d6b806371fa783"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GrievanceViewController policyNoBtnBtnTapped:]"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "723"
+                  endingLineNumber = "723"
+                  offsetFromSymbolStart = "1969">
+               </Location>
+               <Location
+                  uuid = "680A4D70-9C58-4063-A196-F2BEE02EF3B7 - b7ab194e7d6269f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[GrievanceViewController policyNoBtnBtnTapped:]_block_invoke"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "723"
+                  endingLineNumber = "723"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39249F41-2B7E-4312-865E-F752422FC869"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Grievance Controller/GrievanceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1743"
+            endingLineNumber = "1743"
+            landmarkName = "-textFieldDidEndEditing:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39249F41-2B7E-4312-865E-F752422FC869 - 6728a711c1c8b5eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GrievanceViewController textFieldDidEndEditing:]"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1743"
+                  endingLineNumber = "1743"
+                  offsetFromSymbolStart = "2116">
+               </Location>
+               <Location
+                  uuid = "39249F41-2B7E-4312-865E-F752422FC869 - bdef75b3c4c3ff40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[GrievanceViewController textFieldDidEndEditing:]_block_invoke"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1743"
+                  endingLineNumber = "1743"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "060DDDEA-2F07-40E8-A95C-4491635424C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HITPA/Controllers/Grievance Controller/GrievanceViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1290"
+            endingLineNumber = "1290"
+            landmarkName = "-grievanceTrackHandler"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "060DDDEA-2F07-40E8-A95C-4491635424C5 - d04e5eb2823c2330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GrievanceViewController grievanceTrackHandler]"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1290"
+                  endingLineNumber = "1290"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "060DDDEA-2F07-40E8-A95C-4491635424C5 - 9e66f35352454ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[GrievanceViewController grievanceTrackHandler]_block_invoke"
+                  moduleName = "HITPA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shashi/Documents/HITPACUSTOMER/iOS_HITPA_Customer_Version2.0/HITPA/HITPA/Controllers/Grievance%20Controller/GrievanceViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1290"
+                  endingLineNumber = "1290"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "E3874C12-C763-441A-9600-F629158E7F4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

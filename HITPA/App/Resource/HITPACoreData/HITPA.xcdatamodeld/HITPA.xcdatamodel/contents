@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G31" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="BranchLocator" syncable="YES">
+        <attribute name="branchDetails" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="Hospital" syncable="YES">
+        <attribute name="hospitalDetails" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="MyPolicy" syncable="YES">
+        <attribute name="myPolicyDetails" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="QuickConnect" syncable="YES">
+        <attribute name="quickConnectDetails" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="QuickGuide" syncable="YES">
+        <attribute name="quickGuideDetails" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Hospital" positionX="-353" positionY="-360" width="128" height="58"/>
+        <element name="MyPolicy" positionX="-540" positionY="-360" width="128" height="58"/>
+        <element name="QuickConnect" positionX="-450" positionY="-279" width="128" height="58"/>
+        <element name="QuickGuide" positionX="-432" positionY="-216" width="128" height="58"/>
+        <element name="BranchLocator" positionX="-684" positionY="-259" width="128" height="58"/>
+    </elements>
+</model>
